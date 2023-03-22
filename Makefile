@@ -1,2 +1,2 @@
-all
-    g++ -c helloworld.c 
+all:
+	gcc -Wall -Werror -o helloworld helloworld.c
