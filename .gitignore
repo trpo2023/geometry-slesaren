@@ -1,3 +1,6 @@
 /helloworld.application
 /geometry.application
-
+*.a
+*.o
+*.d
+bin/geometry
